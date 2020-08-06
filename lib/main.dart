@@ -30,14 +30,6 @@ class MyApp extends StatelessWidget {
                   Text('Wallet'),
                 ],
               ),
-              Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  Icon(Icons.monetization_on),
-                  Text('Wallet'),
-                ],
-              ),
             ],
           ),
         ),
